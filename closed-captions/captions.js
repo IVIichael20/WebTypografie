@@ -6,7 +6,7 @@ captions[3] = ['12.5','15.6'];
 captions[4] = ['17.369','20'];
 captions[5] = ['20.1','23.3'];
 	//Fuck off, skin-job!
-captions[6] = ['23.3','25.2'];
+captions[6] = ['23.3','24.2'];
 	
 captions[7] = ['26.8','31.6'];
 captions[8] = ['32.7','33'];
@@ -55,8 +55,8 @@ captions[39] = ['65.2','66.6'];
 	//Why don't you say that three times: "within cells interlinked".
 captions[40] = ['66.6','69.1'];
 
-captions[41] = ['69.1','70.6'];
-captions[42] = ['70.6','72.2'];
+captions[41] = ['69.1','74.2'];
+captions[42] = ['70.6','74.2'];
 captions[43] = ['72.2','74.2'];
 	// We're done.
 captions[44] = ['77.1','78.7'];

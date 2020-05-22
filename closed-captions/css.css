@@ -271,7 +271,7 @@ body {
 .sound0 .trigger2 {
     animation-duration: 2s;
     animation-name: SpannendeSounds;
-    animation-iteration-count: 8;
+    animation-iteration-count: 6;
 }
 
 @keyframes SpannendeSounds {

@@ -33,8 +33,42 @@ Ook kreeg ik hier te horen dat het geluid meer beschreven moet worden en dat all
 
 
 De bovenstaande feedback ben ik gaan toepassen. Zo heb ik de code compleet gemaakt en de visuele effecten gemaakt.
+Ook heb ik het typografie gebruik aangepast, zoals in het feedback is aangegeven storen sommige kleuren en hebben ze geen inbreng op het geheel.
 
-Gedurende het fragment komen verschillende geluiden te pas, deze ben ik door middel van CSS visueel gaan maken. Bij al deze visuele effecten heb ik 
+Daarom heb ik gekozen om de tekst met rust de laten en geen overbodige kleuren toe te passen, maar het te laten bij de verschillende soorten versie van het 'Brenner' font.
+
+Er zijn 4 verschillende stemmen die te horen zijn in het fragment;
+
+    -   De commander (Voice1)
+    -   Officer KD6-3.7 (Voice2)
+    -   Voorbijganger (Voice3)
+    -   Andere commander (Voice4)
+    
+#Voice1
+De commander is te horen via een speaker en heb ik hier het 'brenner Sans Condensed' font gegeven. Deze font is wat strakker dan de rest.
+Het is een soort van tekst dat geschreven is op een computer, daarom past het zo goed bij het idee dat het uit een speaker komt.
+
+Deze tekst heb ik links bovenaan het fragment geplaatst.
+
+#Voice2
+Dit is de hoofdrolspeler die aan het spreken is, daarom wilde ik een wat meer geschreven font hebben. Daarom heb ik gekozen voor de 'brenner mono' font.
+Deze lijkt wat meer geschreven en door het 'Italic' te maken, krijg je het gevoel dat dit echt gezegd wordt, en niet via iets anders.
+
+Deze tekst heb ik rechtsonderaan het fragment geplaatst.
+
+#Voice3
+Dit is de voorbijganger die een nare opmerking maakt. Het is negatief maar ook wel fluisterend. Ik heb de tekt de font 'brenner Slab' gegeven omdat deze naar mijn mening het gemeenst overkomt dan de rest, maar je wel doorhebt dat het gezegd wordt. Ook heb ik de tekst wat kleiner gemaakt en geplaatst op de plek waar de voorbijganger loopt. 
+
+Door de tekst hier te plaatsen, krijg je echt te zien dat de voorbijganger die zegt. Anders kan dit moeilijk begrepen worden.
+
+#Voice4
+Dit is de andere commander, die begint te praten bij de 2de interview. Deze is wat directer en maar komt nog wel uit de speaker. Daarom heb ik gekozen voor de 'brenner Sans Condensed'.
+Ten opzichte van de eerste commander, heb ik zijn tekst linkersonderaan geplaatst. Op deze manier wil ik overbrengen dat het door iemand anders gezegd wordt en niet weer door de eerste commander.
+
+
+
+
+Gedurende het fragment komen verschillende geluiden te pas, deze ben ik door middel van CSS visueel gaan maken. Dit zijn de visuele elementen die ik hebt toegevoegd:
 
 #EmergingSound
 Wanneer het fragment begint, speelt er een spannend muziekje af. Dit heb ik visueel gemaakt door middel van een witte gloed onder en boven wat knippert. Op deze manier krijg je door dat er iets opbouwt en afspeelt.
